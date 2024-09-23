@@ -1,0 +1,14 @@
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/bin/Debug/net8.0/FallingObjects
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/bin/Debug/net8.0/FallingObjects.deps.json
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/bin/Debug/net8.0/FallingObjects.runtimeconfig.json
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/bin/Debug/net8.0/FallingObjects.dll
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/bin/Debug/net8.0/FallingObjects.pdb
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.AssemblyInfoInputs.cache
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.AssemblyInfo.cs
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.csproj.CoreCompileInputs.cache
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.dll
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/refint/FallingObjects.dll
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.pdb
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/FallingObjects.genruntimeconfig.cache
+/Users/ayush/Documents/MIT-Deakin/SIT771-OOD/Code/7.3D/FallingObjects/obj/Debug/net8.0/ref/FallingObjects.dll
